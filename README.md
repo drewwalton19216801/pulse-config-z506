@@ -1,5 +1,8 @@
 # pulse-config-z506
-PulseAudio configuration for 5.1 channel audio with the Logitech z506 speaker system. Also works with PipeWire using pipewire-pulse.
+PulseAudio configuration for 5.1 channel audio with the Logitech z506 speaker system.
+
+## PipeWire configuration
+You can find this same configuration for PipeWire here: [pipewire-config-z506](https://github.com/drewwalton19216801/pipewire-config-z506)
 
 ## About
 This PulseAudio configuration is specifically tuned for the Logitech z506 in 5.1 channel mode. It incorporates the following settings:
